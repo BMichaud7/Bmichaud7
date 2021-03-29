@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**BMichaud7/Bmichaud7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Hi there 👋, I am <a href="https://bmichaud.xyz/" target="_blank">Brenndan</a>
+
+<a href="https://www.linkedin.com/in/brendan-michaud/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:brendanmichaud7h@gmail.com"><img src="https://img.icons8.com/ios/48/000000/important-mail.png"/></a>
+
+- I’m currently learning Python
+
+### Languages and tools
+
+
+<div>
+<img src="https://img.icons8.com/dusk/64/000000/python.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
+</div>
+<br/>
+<br/>
