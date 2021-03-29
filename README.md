@@ -4,7 +4,9 @@
 <a href="mailto:brendanmichaud7h@gmail.com"><img src="https://img.icons8.com/ios/48/000000/important-mail.png"/></a>
 
 <br/>
+<div>
 <img src="https://img.icons8.com/doodle/30/000000/learning.png"/> I’m currently learning Python
+</div>
 <br/>
 
 ### Languages
